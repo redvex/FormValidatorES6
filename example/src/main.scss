@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+.error_field{
+	border-color: red;
+}
+.valid_field{
+	border-color: green;
+}
+.feedback_field{
+	font-weight: bold;
+	color: red;
+}

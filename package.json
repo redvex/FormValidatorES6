@@ -1,0 +1,17 @@
+{
+  "name": "formvalidatores6",
+  "version": "0.0.1",
+  "description": "FormValidatorES6",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "watch": "webpack  --mode development --watch"
+  },
+  "author": "Redvex",
+  "license": "MIT"
+}
