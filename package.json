@@ -12,6 +12,16 @@
     "build": "webpack --mode production",
     "watch": "webpack  --mode development --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redvex/FormValidatorES6.git"
+  },
+   "keywords": [
+    "form",
+    "validator",
+    "npm",
+    "package"
+  ],
   "author": "Redvex",
   "license": "MIT"
 }
